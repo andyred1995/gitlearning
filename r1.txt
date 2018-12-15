@@ -4,5 +4,7 @@ git add , git stuts, git commit, git status,git diff   --3
 git commit --4
 git add test --5
 git diff  from stag --6
+git dif from workspace 
+
 
 
