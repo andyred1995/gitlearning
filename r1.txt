@@ -8,5 +8,5 @@ git dif from workspace
 test remote and   add 
 test for branch dev
 
-
+test for confic  master and  dev  branch
 
