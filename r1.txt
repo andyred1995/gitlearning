@@ -6,6 +6,7 @@ git add test --5
 git diff  from stag --6
 git dif from workspace
 test remote and   add 
+test for branch dev
 
 
 
